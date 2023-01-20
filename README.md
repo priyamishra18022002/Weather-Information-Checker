@@ -1,4 +1,4 @@
-# Weather_Info_Giver
+# Weather_Information_Checker
 Website that provides weather information of the searched location using OpenWeatherMap API.
 
 Website Screenshot:
